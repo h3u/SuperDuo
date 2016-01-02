@@ -1,0 +1,6 @@
+[submodule "alexandria"]
+	path = alexandria
+	url = git@github.com:h3u/alexandria.git
+[submodule "Football_Scores"]
+	path = Football_Scores
+	url = git@github.com:h3u/Football_Scores.git
